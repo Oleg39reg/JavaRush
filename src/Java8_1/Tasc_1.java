@@ -1,7 +1,13 @@
 package Java8_1;
 
 public class Tasc_1 {
-    public static void main(String[] args) {
+    byte a;
+    short b;
+    int c;
+    long d;
+    float q;
+    double w;
+    boolean e;
+    char r;
 
-    }
 }
