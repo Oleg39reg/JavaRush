@@ -7,6 +7,7 @@ public class Tasc3 {
         String third = new String("javarush");
         System.out.println(equal(first, second));
         System.out.println(equal(second, third));
+        System.out.println(equal(first, third));
     }
 
     public static boolean equal(String first, String second) {
